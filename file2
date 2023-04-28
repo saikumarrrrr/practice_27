@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 welcome
+=======
+print ("hello")
+>>>>>>> 08499a3591b4c68665b27143b4ac24020e7d19e8
